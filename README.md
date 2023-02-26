@@ -2,5 +2,5 @@
 YOLOv8 demo (unofficial)
 
 - `detectjanken.py`…Reasoning about the rock-paper-scissors hands  
-Example program → https://github.com/r-40021/janken-ai
+Example program used this model → https://github.com/r-40021/janken-ai
 - `detectdemo.py`…Inference using the standard YOLOv8 model
